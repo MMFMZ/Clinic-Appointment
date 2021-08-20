@@ -799,7 +799,13 @@ main .services-form .services .boxes .box:hover h3 {
     margin-top: 30px;
     border: 1px solid #fe5f55;
     outline: none;
-} 
+ } 
+  
+  .appointment-form .form div .date,
+  .appointment-form .form div .time {
+    max-height: 40px;
+    min-height: 40px;
+  }
   
   select {
     height: 50px;
