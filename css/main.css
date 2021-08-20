@@ -805,7 +805,7 @@ main .services-form .services .boxes .box:hover h3 {
   .appointment-form .form div .time {
     max-height: 40px;
     min-height: 40px;
-    backgroung-color: #fff;
+    background-color: #fff;
   }
   
   select {
